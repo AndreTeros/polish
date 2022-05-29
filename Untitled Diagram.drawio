@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T11:12:16.623Z" agent="5.0 (Windows)" etag="RS-45Tff6S6kfUIdpTaM" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T11:31:57.225Z" agent="5.0 (Windows)" etag="qQcZZbLgb5Mr__dCtkyG" version="18.1.3" type="github">
   <diagram id="6j_6cXQk5FZA-GrxPd4j" name="Page-1">
-    <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
           <mxGeometry x="440" y="210" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="knHPTDooNQ06RUcvYaar-14" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;podatek ryczałtowy&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 - 17 %&lt;br&gt;&lt;u&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="290" width="220" height="150" as="geometry" />
+          <mxGeometry x="220" y="290" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="knHPTDooNQ06RUcvYaar-19" value="% від ооброту" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;size=0.05;" parent="1" vertex="1">
           <mxGeometry x="440" y="290" width="290" height="30" as="geometry" />
@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="knHPTDooNQ06RUcvYaar-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="365" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="sourcePoint" />
             <mxPoint x="180" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -62,30 +62,44 @@
         </mxCell>
         <mxCell id="knHPTDooNQ06RUcvYaar-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="knHPTDooNQ06RUcvYaar-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="365" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="sourcePoint" />
             <mxPoint x="370" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQEM9dnmaX-WmJq5XYb7-1" target="HQEM9dnmaX-WmJq5XYb7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HQEM9dnmaX-WmJq5XYb7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQEM9dnmaX-WmJq5XYb7-1" target="HQEM9dnmaX-WmJq5XYb7-3">
+        <mxCell id="HQEM9dnmaX-WmJq5XYb7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQEM9dnmaX-WmJq5XYb7-1" target="HQEM9dnmaX-WmJq5XYb7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HQEM9dnmaX-WmJq5XYb7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQEM9dnmaX-WmJq5XYb7-1" target="HQEM9dnmaX-WmJq5XYb7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="448" />
+              <mxPoint x="170" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;відкрити ФОП&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="525" width="150" height="50" as="geometry" />
+          <mxGeometry x="10" y="410" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-2" value="&lt;div&gt;PESEL&lt;/div&gt;(іден код)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="525" width="150" height="50" as="geometry" />
+          <mxGeometry x="200" y="410" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-3" value="&lt;div&gt;profil zaufany&lt;/div&gt;(електроний підпис)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="150" height="50" as="geometry" />
+          <mxGeometry x="200" y="485" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-6" value="юр. адреса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="680" width="150" height="50" as="geometry" />
+          <mxGeometry x="200" y="565" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-7" value="може дати коворкінг" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.08333333333333333;" vertex="1" parent="1">
-          <mxGeometry x="350" y="680" width="120" height="50" as="geometry" />
+          <mxGeometry x="350" y="565" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HQEM9dnmaX-WmJq5XYb7-11" value="прописка не обов&#39;язкова" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.08333333333333333;" vertex="1" parent="1">
+          <mxGeometry x="350" y="585" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HQEM9dnmaX-WmJq5XYb7-12" value="&lt;span class=&quot;style-scope yt-formatted-string&quot; dir=&quot;auto&quot;&gt;З питань реєстраціх ФОП у Польщі пищіть у Телеграм Олексію Кравченко @lexakrav&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="395" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
