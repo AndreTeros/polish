@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T15:10:17.490Z" agent="5.0 (Windows)" etag="smkfXitk0HfdaMJk_cKf" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T15:36:17.459Z" agent="5.0 (Windows)" etag="KyggXixbju_hh0dVzqq_" version="18.1.3" type="github">
   <diagram id="6j_6cXQk5FZA-GrxPd4j" name="Page-1">
-    <mxGraphModel dx="1730" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,13 +81,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="718" />
-              <mxPoint x="230" y="860" />
-              <mxPoint x="270" y="860" />
+              <mxPoint x="230" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;відкрити ФОП&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="680" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TvwZKqWlP7eVR84PbtN6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQEM9dnmaX-WmJq5XYb7-2" target="TvwZKqWlP7eVR84PbtN6-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-2" value="&lt;div&gt;PESEL&lt;/div&gt;(іден код)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="680" width="150" height="50" as="geometry" />
@@ -95,17 +97,20 @@
         <mxCell id="TvwZKqWlP7eVR84PbtN6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQEM9dnmaX-WmJq5XYb7-3" target="TvwZKqWlP7eVR84PbtN6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TvwZKqWlP7eVR84PbtN6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQEM9dnmaX-WmJq5XYb7-3" target="TvwZKqWlP7eVR84PbtN6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-3" value="&lt;div&gt;profil zaufany&lt;/div&gt;(електроний підпис)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="755" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-6" value="юр. адреса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="835" width="150" height="40" as="geometry" />
+          <mxGeometry x="280" y="880" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-7" value="може дати коворкінг" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.08333333333333333;" parent="1" vertex="1">
-          <mxGeometry x="420" y="835" width="180" height="20" as="geometry" />
+          <mxGeometry x="430" y="880" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-11" value="прописка не обов&#39;язкова" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.08333333333333333;" parent="1" vertex="1">
-          <mxGeometry x="420" y="855" width="180" height="20" as="geometry" />
+          <mxGeometry x="430" y="900" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-12" value="&lt;span class=&quot;style-scope yt-formatted-string&quot; dir=&quot;auto&quot;&gt;З питань реєстраціх ФОП у Польщі пищіть у Телеграм Олексію Кравченко @lexakrav&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="10" y="755" width="190" height="80" as="geometry" />
@@ -114,13 +119,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TvwZKqWlP7eVR84PbtN6-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;де реэструють&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="675" width="130" height="50" as="geometry" />
+          <mxGeometry x="45" y="1010" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TvwZKqWlP7eVR84PbtN6-3" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CEIDG&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(центральний реєстр інфо підприємницької діяльності)&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="745" width="180" height="60" as="geometry" />
+          <mxGeometry x="20" y="1080" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TvwZKqWlP7eVR84PbtN6-4" value="https://pz.gov.pl" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="480" y="755" width="120" height="50" as="geometry" />
+          <mxGeometry x="500" y="730" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TvwZKqWlP7eVR84PbtN6-6" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="850" width="580" height="160" as="geometry" />
@@ -239,6 +244,15 @@
         </mxCell>
         <mxCell id="TvwZKqWlP7eVR84PbtN6-35" value="карта поляка" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="220" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TvwZKqWlP7eVR84PbtN6-36" value="https://www.gov.pl/web/gov/otrymay-nomer-PESEL-ta-dovirenyy-profil-posluha-dlya-hromadyan-Ukrayiny-u-zvyazku-zi-zbroynym-konfliktom-na-terytoriyi-tsiyeyi-krayiny" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TvwZKqWlP7eVR84PbtN6-39" value="https://www.youtube.com/watch?v=gIvdLugsRwo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="570" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TvwZKqWlP7eVR84PbtN6-40" value="потрібний польський номер" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.058823529411764705;" vertex="1" parent="1">
+          <mxGeometry x="500" y="790" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
