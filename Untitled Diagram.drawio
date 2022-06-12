@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T06:36:33.217Z" agent="5.0 (X11)" etag="x6nXsipJq3zNwj4vMETe" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T08:54:13.566Z" agent="5.0 (Windows)" etag="pijNhGtGIbMYkmKe4lCI" version="18.1.3" type="github">
   <diagram id="6j_6cXQk5FZA-GrxPd4j" name="Page-1">
-    <mxGraphModel dx="1102" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="718" />
-              <mxPoint x="230" y="900" />
+              <mxPoint x="230" y="1035" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -104,13 +104,13 @@
           <mxGeometry x="270" y="755" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-6" value="юр. адреса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="880" width="150" height="40" as="geometry" />
+          <mxGeometry x="270" y="1015" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-7" value="може дати коворкінг" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.08333333333333333;" parent="1" vertex="1">
-          <mxGeometry x="430" y="880" width="180" height="20" as="geometry" />
+          <mxGeometry x="420" y="1015" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-11" value="прописка не обов&#39;язкова" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.08333333333333333;" parent="1" vertex="1">
-          <mxGeometry x="430" y="900" width="180" height="20" as="geometry" />
+          <mxGeometry x="420" y="1035" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQEM9dnmaX-WmJq5XYb7-12" value="&lt;span class=&quot;style-scope yt-formatted-string&quot; dir=&quot;auto&quot;&gt;З питань реєстраціх ФОП у Польщі пищіть у Телеграм Олексію Кравченко @lexakrav&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="10" y="755" width="190" height="80" as="geometry" />
@@ -253,6 +253,18 @@
         </mxCell>
         <mxCell id="TvwZKqWlP7eVR84PbtN6-40" value="потрібний польський номер" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.058823529411764705;" parent="1" vertex="1">
           <mxGeometry x="500" y="790" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="McWYnYXk9I7gi8ekQghl-2" value="рахунок в банку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="870" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="McWYnYXk9I7gi8ekQghl-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="McWYnYXk9I7gi8ekQghl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="780" as="sourcePoint" />
+            <mxPoint x="280" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
